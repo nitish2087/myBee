@@ -1,0 +1,14 @@
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_gradient">
+    <ImageView
+            android:layout_width="180dp"
+            android:layout_height="100dp"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:background="@drawable/my_bee"
+            android:layout_centerInParent="true"/>
+
+</RelativeLayout>
